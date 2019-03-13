@@ -1,0 +1,15 @@
+{
+  "name": "webpack-minimal-example-rep",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/MhMadHamster/webpack-minimal-example-rep.git",
+  "author": "MhMadHamster",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn webpack"
+  },
+  "dependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
